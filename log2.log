@@ -1,0 +1,26 @@
+[
+  {
+    "level": "info",
+    "log_string": "Request received",
+    "timestamp": "2023-09-15T09:00:00Z",
+    "metadata": {
+      "source": "log2.log"
+    }
+  },
+  {
+    "level": "error",
+    "log_string": "Request processing delayed",
+    "timestamp": "2023-09-15T09:10:00Z",
+    "metadata": {
+      "source": "log2.log"
+    }
+  },
+  {
+    "level": "error",
+    "log_string": "Failed to process request",
+    "timestamp": "2023-09-15T09:20:00Z",
+    "metadata": {
+      "source": "log2.log"
+    }
+  }
+]
